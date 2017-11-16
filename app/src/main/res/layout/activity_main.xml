@@ -7,7 +7,7 @@
     tools:context="com.kast.listviewdemo.MainActivity">
 
     <ListView
-        android:id="@+id/listView"
+        android:id="@+id/friendsList"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_centerHorizontal="true"
